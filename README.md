@@ -10,4 +10,5 @@
 **Wechat:** **HenryLiu778**<br>
 ![Wechat](https://github.com/Zombieliu/Zombieliu/blob/main/wechat.png)<br>
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Zombieliu)]()
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zombieliu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zombieliu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
