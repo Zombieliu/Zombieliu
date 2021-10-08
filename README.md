@@ -2,7 +2,7 @@
 
 
 - 🍻 Web3Games Founder && Product Manager / Game and Blockchain Developer
-- ⚡ Language: Rust / Go / C++ / C# / JS / Ts / Dart 
+- ⚡ Language: Rust / Go / C++ / C# / JS / Ts / Dart / Solidiry
 - 🏃 Framework: nextjs / react / vue / cocos / u3d / ue4
 - ♟ Web3Games Website [Web3Games](https://web3games.org)
 
