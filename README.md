@@ -1,9 +1,4 @@
 ### ⚡ I'm Henry Liu 👋
-
-
-- 🍻 Web3Games Founder && Product Manager / Game and Blockchain Developer
-- ♟ [Web3Games](https://web3games.org)
-
 ---
 **Wechat:** **HenryLiu778**<br>
 ![Wechat](https://github.com/Zombieliu/Zombieliu/blob/main/wechat.png)<br>
